@@ -3,7 +3,7 @@
 
 ## Visão Geral
 <p>O script está dividido em duas partes.</p>
-- Geração de uma quantidade de números aleatório, de acordo com o input do usuário, que será incorporada a um array.
+- Geração de uma quantidade de números aleatório, de acordo com o input do usuário, que será incorporada a um array.<br>
 - Função para encontrar o k-ésimo número mais frequente do array.
 
 ### Como usar:
