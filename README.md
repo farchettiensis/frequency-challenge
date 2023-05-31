@@ -8,7 +8,7 @@
 
 ### Como usar:
 <p>Tendo o node instalado, basta executar o seguinte comando no diretório em que o script se encontra:</p>
-> ```node main.js```
+> <code>node main.js</code>
 
 ### Tecnologias
 <p>Node.js.</p>
